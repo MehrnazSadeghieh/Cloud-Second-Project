@@ -61,9 +61,9 @@ To work with this project, you can use the following Docker Compose commands:
 
 Check the "screenshot" folder for images that illustrate the project's output.
 
----
-
 ## Authors
 Mehrnaz Sadeghieh
+
+---
 
 By completing this Docker Compose project, you will gain valuable experience in orchestrating multiple containers for complex applications. Enjoy your journey into container management!
